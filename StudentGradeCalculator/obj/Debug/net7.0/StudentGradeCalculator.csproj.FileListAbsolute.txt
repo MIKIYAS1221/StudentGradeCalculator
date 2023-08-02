@@ -1,0 +1,15 @@
+/home/miki/RiderProjects/StudentGradeCalculator/StudentGradeCalculator/bin/Debug/net7.0/StudentGradeCalculator
+/home/miki/RiderProjects/StudentGradeCalculator/StudentGradeCalculator/bin/Debug/net7.0/StudentGradeCalculator.deps.json
+/home/miki/RiderProjects/StudentGradeCalculator/StudentGradeCalculator/bin/Debug/net7.0/StudentGradeCalculator.runtimeconfig.json
+/home/miki/RiderProjects/StudentGradeCalculator/StudentGradeCalculator/bin/Debug/net7.0/StudentGradeCalculator.dll
+/home/miki/RiderProjects/StudentGradeCalculator/StudentGradeCalculator/bin/Debug/net7.0/StudentGradeCalculator.pdb
+/home/miki/RiderProjects/StudentGradeCalculator/StudentGradeCalculator/obj/Debug/net7.0/StudentGradeCalculator.csproj.AssemblyReference.cache
+/home/miki/RiderProjects/StudentGradeCalculator/StudentGradeCalculator/obj/Debug/net7.0/StudentGradeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/miki/RiderProjects/StudentGradeCalculator/StudentGradeCalculator/obj/Debug/net7.0/StudentGradeCalculator.AssemblyInfoInputs.cache
+/home/miki/RiderProjects/StudentGradeCalculator/StudentGradeCalculator/obj/Debug/net7.0/StudentGradeCalculator.AssemblyInfo.cs
+/home/miki/RiderProjects/StudentGradeCalculator/StudentGradeCalculator/obj/Debug/net7.0/StudentGradeCalculator.csproj.CoreCompileInputs.cache
+/home/miki/RiderProjects/StudentGradeCalculator/StudentGradeCalculator/obj/Debug/net7.0/StudentGradeCalculator.dll
+/home/miki/RiderProjects/StudentGradeCalculator/StudentGradeCalculator/obj/Debug/net7.0/refint/StudentGradeCalculator.dll
+/home/miki/RiderProjects/StudentGradeCalculator/StudentGradeCalculator/obj/Debug/net7.0/StudentGradeCalculator.pdb
+/home/miki/RiderProjects/StudentGradeCalculator/StudentGradeCalculator/obj/Debug/net7.0/StudentGradeCalculator.genruntimeconfig.cache
+/home/miki/RiderProjects/StudentGradeCalculator/StudentGradeCalculator/obj/Debug/net7.0/ref/StudentGradeCalculator.dll
